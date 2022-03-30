@@ -1,7 +1,7 @@
 [
     {
         "visible": "true",
-        "icon": "success",
+        "icon": "error",
         "title": "COVID-19:",
         "description": "See the latest assessment and care options, plus temporary visitor restrictions.",
         "link": "/my-account",
