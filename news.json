@@ -1,15 +1,15 @@
 [
     {
-        "id": "36",
+        "id": "5",
         "category": "category-promotion",
-        "date": "09 Aug 2021",
-        "title": "Corrosion - Fading - Falling apart:- are your cameras in harsh environments near the coastline and cannot cope",
-        "image": "/_ui/responsive/theme-bgwt/images/news-promos/01.jpg",
-        "link": "https://www.linkedin.com/posts/bgw-technologies_safety-security-cctv-activity-6829579108880674816-ql4E",
+        "date": "15 Mar 2022",
+        "title": "Introducing the Integration Hub! We have partnered with multiple accounting platforms, so you never have to worry about manually requesting invoices and price files again!",
+        "image": "https://scontent-syd2-1.xx.fbcdn.net/v/t39.30808-6/275641325_5329305027094072_3330815575755913184_n.jpg?stp=dst-jpg_p526x296&_nc_cat=103&ccb=1-5&_nc_sid=a26aad&_nc_ohc=dNUAnklLYygAX9Al8-Q&_nc_ht=scontent-syd2-1.xx&oh=00_AT8NmrTvDQg9S_ivNgjVbrH0FgdNq6E3YVP493huLoy4hg&oe=624A0849",
+        "link": "https://www.facebook.com/SamiosPlumbing/posts/5329305070427401",
         "target": "_blank"
     },
     {
-        "id": "35",
+        "id": "4",
         "category": "category-news",
         "date": "09 Aug 2021",
         "title": "The Full Husky IVO Series Has Been Released",
@@ -18,7 +18,7 @@
         "target": "_blank"
     },
     {
-        "id": "34",
+        "id": "3",
         "category": "category-news",
         "date": "09 Aug 2021",
         "title": "Security Alarm change is happening QOLSYS",
@@ -27,7 +27,7 @@
         "target": "_blank"
     },
     {
-        "id": "33",
+        "id": "2",
         "category": "category-news",
         "date": "09 Aug 2021",
         "title": "Download the LATEST i-Pro Panasonic CCTV catalogue (May 2021)",
@@ -36,7 +36,7 @@
         "target": "_blank"
     },
     {
-        "id": "32",
+        "id": "1",
         "category": "category-promotion",
         "date": "09 Aug 2021",
         "title": "New Husky from Milestone Systems coming soon to BGW Technologies Australia",
@@ -44,283 +44,4 @@
         "link": "https://www.linkedin.com/posts/bgw-technologies_coming-soon-to-bgw-technologies-milestone-activity-6785008135573766144-pyrF",
         "target": "_blank"
     },
-    {
-        "id": "31",
-        "category": "category-news",
-        "date": "09 Aug 2021",
-        "title": "Advanced Storage Technology For All: PowerStore 500",
-        "image": "https://i.ibb.co/HhkZccX/1619004689389.jpg",
-        "link": "https://www.linkedin.com/posts/bgw-technologies_intelligent-powerful-storage-thats-future-proof-activity-6790746054666133504-01XT",
-        "target": "_blank"
-    },
-    {
-        "id": "30",
-        "category": "category-news",
-        "date": "09 Aug 2021",
-        "title": "ION Releases F11 Range Of UPS Solutions For Security Applications",
-        "image": "https://securityelectronicsandnetworks.com/wp-content/uploads/2021/05/Ion-F11.png",
-        "link": "https://www.linkedin.com/posts/bgw-technologies_ion-releases-f11-range-of-ups-solutions-for-activity-6800164389413638144--mGR",
-        "target": "_blank"
-    },
-    {
-        "id": "29",
-        "category": "category-news",
-        "date": "09 Aug 2021",
-        "title": "Surface Mount Technology",
-        "image": "https://i.ibb.co/KzGrs7F/1621485760104.jpg",
-        "link": "https://www.linkedin.com/posts/bgw-technologies_madeintheusa-pelco-activity-6801090800093683712-DrL7",
-        "target": "_blank"
-    },
-    {
-        "id": "28",
-        "category": "category-news",
-        "date": "09 Aug 2021",
-        "title": "Skybell - Another in demand product from Alarm.com",
-        "image": "https://i.ibb.co/G7SjzQF/1629078728704.jpg",
-        "link": "https://www.linkedin.com/posts/bgw-technologies_180-degree-colour-skybell-trim-plus-from-activity-6806835301747687424-AOB5",
-        "target": "_blank"
-    },
-    {
-        "id": "27",
-        "category": "category-news",
-        "date": "09 Aug 2021",
-        "title": "Panasonic I-PRO WV-X1551LN AI Bullet: First Impressions",
-        "image": "https://i.ibb.co/5GpMWrj/1622206512543.jpg",
-        "link": "https://www.linkedin.com/posts/bgw-technologies_innovation-ai-machinelearning-activity-6804027267350708224-QcGs",
-        "target": "_blank"
-    },
-    {
-        "id": "26",
-        "category": "category-news",
-        "date": "09 Aug 2021",
-        "title": "Another DSC PowerG wireless device to add to the brilliant and flexible NEO hybrid alarm system",
-        "image": "https://i.ibb.co/NSXs7nP/1628659369764.jpg",
-        "link": "https://www.linkedin.com/posts/bgw-technologies_dsc-powerg-wireless-smoke-and-heat-detector-activity-6783877827134672896-G3A5",
-        "target": "_blank"
-    },
-    {
-        "id": "25",
-        "category": "category-news",
-        "date": "09 Aug 2021",
-        "title": "We are OPEN, but a big shout out to our Victorian team and their families who have to endure another 7 day lockdown due to covid19",
-        "image": "https://i.ibb.co/tH78tWL/1622096460576.jpg",
-        "link": "https://www.linkedin.com/posts/bgw-technologies_open-staysafe-covidsafe-activity-6803565675957899264-d6Ja",
-        "target": "_blank"
-    },
-    {
-        "id": "24",
-        "category": "category-news",
-        "date": "09 Aug 2021",
-        "title": "John Adams chats with BGW Technologies’ Robert Meachem about the new Victorian branch",
-        "image": "https://i.ibb.co/Mpckj5Z/1620707222308.jpg",
-        "link": "https://www.linkedin.com/posts/bgw-technologies_john-adams-chats-with-bgw-technologies-robert-activity-6797738790963290112-c32a",
-        "target": "_blank"
-    },
-    {
-        "id": "23",
-        "category": "category-news",
-        "date": "09 Aug 2021",
-        "title": "#Netbox Cardholder Self Assessment makes it possible for employees to self-assess their readiness to return to work directly from the Mobile Security User app.",
-        "image": "https://i.ibb.co/4Y2s45L/S2-Security-Access-Control.jpg",
-        "link": "https://www.linkedin.com/posts/bgw-technologies_mobile-security-user-app-overview-lenels2-activity-6770418073875968000-dBqZ",
-        "target": "_blank"
-    },
-    {
-        "id": "22",
-        "category": "category-news",
-        "date": "09 Aug 2021",
-        "title": "Pelco's IBD range of corner mount cameras are a great solution for situations where cameras are mounted low and subject to vandalism or attack.",
-        "image": "https://i.ibb.co/bzBKhtM/1613532449595.jpg",
-        "link": "https://www.linkedin.com/posts/bgw-technologies_pelcos-ibd-range-of-corner-mount-cameras-activity-6767645611014668288-rh92",
-        "target": "_blank"
-    },
-    {
-        "id": "21",
-        "category": "category-news",
-        "date": "09 Aug 2021",
-        "title": "Video Technology Is Changing The World",
-        "image": "https://i.ibb.co/4PN3fGp/1613512452133.jpg",
-        "link": "https://www.linkedin.com/posts/bgw-technologies_mips2021-technology-milestonesystems-activity-6767561734149545984-hXqc",
-        "target": "_blank"
-    },
-    {
-        "id": "20",
-        "category": "category-news",
-        "date": "09 Aug 2021",
-        "title": "Detectors for commercial & residential - DSC has you covered with a big variety of world class, proven detectors",
-        "image": "https://i.ibb.co/HXXjLqP/1628664393715.jpg",
-        "link": "https://www.linkedin.com/posts/bgw-technologies_dsc-dual-technology-motion-detectors-with-activity-6766217278288723968-Tv0G",
-        "target": "_blank"
-    },
-    {
-        "id": "19",
-        "category": "category-news",
-        "date": "09 Aug 2021",
-        "title": "I-Pro Panasonic 360 degree Fisheye cameras",
-        "image": "https://i.ibb.co/P4vvcnt/1613127581577.jpg",
-        "link": "https://www.linkedin.com/posts/bgw-technologies_analytics-warehousing-retailsecurity-activity-6765947473681899520-g_ct",
-        "target": "_blank"
-    },
-    {
-        "id": "18",
-        "category": "category-news",
-        "date": "09 Aug 2021",
-        "title": "Look who dropped in to see us at our new Vic branch.",
-        "image": "https://i.ibb.co/vx7sPM0/1612496510285.jpg",
-        "link": "https://www.linkedin.com/posts/bgw-technologies_sen-bgwt-security-activity-6763300567101128704-r7GO",
-        "target": "_blank"
-    },
-    {
-        "id": "17",
-        "category": "category-news",
-        "date": "09 Aug 2021",
-        "title": "The Qolsys IQpanel allows you to add internal & external cameras on to the system",
-        "image": "https://i.ibb.co/31ZBbwj/1610536128533.jpg",
-        "link": "https://www.linkedin.com/posts/bgw-technologies_qolsys-iqpanel-video-activity-6755942069086380032-MYJo",
-        "target": "_blank"
-    },
-    {
-        "id": "16",
-        "category": "category-news",
-        "date": "09 Aug 2021",
-        "title": "Merry Christmas & Happy New Year to all our loyal followers, brilliant customers and wonderful suppliers",
-        "image": "https://i.ibb.co/Z148Kwc/1608320227270.jpg",
-        "link": "https://www.linkedin.com/posts/bgw-technologies_merry-christmas-happy-new-year-to-all-activity-6745783968777543680-oamf",
-        "target": "_blank"
-    },
-    {
-        "id": "15",
-        "category": "category-news",
-        "date": "09 Aug 2021",
-        "title": "BGWT Vic has MOVED - as of the 14th December we are now located at our BIG new branch",
-        "image": "https://i.ibb.co/PYW2zSm/1607895625060.jpg",
-        "link": "https://www.linkedin.com/posts/bgw-technologies_newbranch-security-bgwtechnologies-activity-6744003058109431808-OIK9",
-        "target": "_blank"
-    },
-    {
-        "id": "14",
-        "category": "category-news",
-        "date": "09 Aug 2021",
-        "title": "Check out this short video on BlueDiamond from Lenels2",
-        "image": "https://d9hhrg4mnvzow.cloudfront.net/bluediamond.lenels2.com/4bc8cb76-gettyimages-1149709085-ret-v5-1d.jpg",
-        "link": "https://www.linkedin.com/posts/bgw-technologies_httpbluediamondlenels2com-activity-6742241295613480960-uSGd",
-        "target": "_blank"
-    },
-    {
-        "id": "13",
-        "category": "category-news",
-        "date": "09 Aug 2021",
-        "title": "High quality wireless for CCTV",
-        "image": "https://i.ibb.co/4mq0qj0/1605803882683.jpg",
-        "link": "https://www.linkedin.com/posts/bgw-technologies_quanta-q5-18-activity-6738911569847177216-f44f",
-        "target": "_blank"
-    },
-    {
-        "id": "12",
-        "category": "category-news",
-        "date": "09 Aug 2021",
-        "title": "Crushed it- Congratulations to Victorians for 28 days of no new Community transmission of Covid19 and currently Zero active cases (elimination)",
-        "image": "https://i.ibb.co/f03z61p/1606426522426.jpg",
-        "link": "https://www.linkedin.com/posts/bgw-technologies_covidsafety-activity-6737841193838886912-gWi5",
-        "target": "_blank"
-    },
-    {
-        "id": "11",
-        "category": "category-news",
-        "date": "09 Aug 2021",
-        "title": "Milestone XProtect 2020 R3 release - includes FIPS incryption and new Multi Category Search functions",
-        "image": "https://securityelectronicsandnetworks.com/wp-content/uploads/2020/11/Milestone-XProtect-2020-R3-1024x571.png",
-        "link": "https://www.linkedin.com/posts/bgw-technologies_milestone-adds-encryption-from-microsoft-activity-6734966170853736448-IR4Y",
-        "target": "_blank"
-    },
-    {
-        "id": "10",
-        "category": "category-news",
-        "date": "09 Aug 2021",
-        "title": "Expanding - a Sneak Peak of our “Future” BGW Technologies Melbourne Branch!",
-        "image": "https://i1.au.reastatic.net/712x400-smart=75,r=33,g=40,b=46,quality=60,progressive/04575a64521c8dc0f81c383101fcdd9b371c9414d6003e4412cf9cd23e1ccd19/image0.jpg",
-        "link": "https://www.linkedin.com/posts/bgw-technologies_securitydistributor-bgwtechnologies-activity-6733301110930579456-4d1e",
-        "target": "_blank"
-    },
-    {
-        "id": "9",
-        "category": "category-news",
-        "date": "09 Aug 2021",
-        "title": "10 Years in Business",
-        "image": "https://securityelectronicsandnetworks.com/wp-content/uploads/2020/11/BGWT-Lead-Image-MR-1024x769.jpg",
-        "link": "https://www.linkedin.com/posts/bgw-technologies_celebrating-10-years-in-business-activity-6730629368244248576-4LcV",
-        "target": "_blank"
-    },
-    {
-        "id": "8",
-        "category": "category-news",
-        "date": "09 Aug 2021",
-        "title": "Pelco’s SMR (special modification request) program give customers ability to have a custom solution.",
-        "image": "https://media.pelco.com/wp-content/uploads/2019/12/12175806/smr-hotel-resort-pattern-match-color-pelco.jpg",
-        "link": "https://www.linkedin.com/posts/bgw-technologies_special-modification-requests-pelco-activity-6730574403152826368-lO1B",
-        "target": "_blank"
-    },
-    {
-        "id": "7",
-        "category": "category-news",
-        "date": "09 Aug 2021",
-        "title": "Fighting Vandalism? We've got the camera's you need to fight the good fight.",
-        "image": "https://media.pelco.com/wp-content/uploads/2019/12/17080727/vandal-proof-pelco-cameras.jpg",
-        "link": "https://www.linkedin.com/posts/bgw-technologies_vandal-resistant-security-cameras-pelco-activity-6728043293252440064-Ez-Y",
-        "target": "_blank"
-    },
-    {
-        "id": "6",
-        "category": "category-news",
-        "date": "09 Aug 2021",
-        "title": "Australia - Physical Security Electrical Utilities Webinar 25th November at 2pm",
-        "image": "https://utilitymagazine.com.au/wp-content/uploads/2020/10/substation-at-night-1038x692.jpg",
-        "link": "https://www.linkedin.com/posts/bgw-technologies_senstar-utilities-security-activity-6726992738589523968-P1Er",
-        "target": "_blank"
-    },
-    {
-        "id": "5",
-        "category": "category-news",
-        "date": "09 Aug 2021",
-        "title": "Become an Aussie Dealer - Alarm.com is running an APAC webinar on how to become an authorized dealer. Great revenue income, awesome platform. 1pm on the 4th November AEST. Click below link to register.",
-        "image": "https://d9hhrg4mnvzow.cloudfront.net/home.alarm.com/apacintrowebinar/b002b5ea-image_10as0bs000000000000028.png",
-        "link": "https://www.linkedin.com/posts/bgw-technologies_security-alarm-bgwtechnologies-activity-6725307018665709568--E-S",
-        "target": "_blank"
-    },
-    {
-        "id": "4",
-        "category": "category-news",
-        "date": "09 Aug 2021",
-        "title": "DSC PowerSeries NEO From BGW Technologies",
-        "image": "https://securityelectronicsandnetworks.com/wp-content/uploads/2020/10/PowerSeries-NEO-MR-1024x416.jpg",
-        "link": "https://www.linkedin.com/posts/bgw-technologies_dsc-powerseries-neo-from-bgw-technologies-activity-6722760409872498688-R78J",
-        "target": "_blank"
-    },
-    {
-        "id": "3",
-        "category": "category-news",
-        "date": "09 Aug 2021",
-        "title": "Join PELCO’s virtual experience - jump on line between 7am and 11am Sydney time on the 14-15th October to preview the latest from Pelco. Register here",
-        "image": "https://motorolasolutionsevents.com/media/On-demand-card-01.jpg",
-        "link": "https://www.linkedin.com/posts/bgw-technologies_join-pelcos-virtual-experience-jump-on-activity-6720154787574366208-5Eid",
-        "target": "_blank"
-    },
-    {
-        "id": "2",
-        "category": "category-news",
-        "date": "09 Aug 2021",
-        "title": "Check out the latest edition of Connect Magazine! The healthy buildings article makes for a great read.",
-        "image": "https://www.s2sys.com/sites/default/files/inline-images/thumbnail_Connect_2020_Q3_webthumbnail.jpg",
-        "link": "https://www.linkedin.com/posts/bgw-technologies_lenels2-connect-magazine-activity-6714997475259887616-SuPs",
-        "target": "_blank"
-    },
-    {
-        "id": "1",
-        "category": "category-news",
-        "date": "09 Aug 2021",
-        "title": "Panasonic’s WV-U1542L Bullet Camera: First Impressions",
-        "image": "https://securityelectronicsandnetworks.com/wp-content/uploads/2020/09/Panasonic-Bullet-Camera.JPG-Ed.jpg-MR-1024x576.jpg",
-        "link": "https://www.linkedin.com/posts/bgw-technologies_panasonics-wv-u1542l-bullet-camera-first-activity-6714067413945647104-IH_0",
-        "target": "_blank"
-    }
 ]
