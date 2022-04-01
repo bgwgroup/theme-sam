@@ -1,18 +1,8 @@
 [
     {
-        "id": "6",
-        "category": "category-news",
-        "date": "16 Mar 2022",
-        "title": "Happy World Plumbing Day!",
-        "text": "Today is a day to celebrate all the legendary work our local plumbers do. For the team at Samios Plumbing Supplies, thank you",
-        "image": "https://scontent-syd2-1.xx.fbcdn.net/v/t39.30808-6/275623573_5318137408210834_2403154678317018110_n.jpg?stp=dst-jpg_p180x540&_nc_cat=109&ccb=1-5&_nc_sid=a26aad&_nc_ohc=8SSjSlILK6wAX_Cyw15&_nc_ht=scontent-syd2-1.xx&oh=00_AT9CPquj1J1dk39UzoawfL_7QN8yJ7zG4npr2dI7loc1RA&oe=624A93E5",
-        "link": "https://www.facebook.com/SamiosPlumbing/posts/5318137451544163?__cft__[0]=AZXKGQNJDCSNRSV4rL_1op_FLMOek5mPfpaBaVtbM8cZ7CWbpcOkhgda7SOLqSxSlVtFl1-EOF54aPC2r8o-PK8SLsFMSe61ramMIxKkzpvMPW8aEyXLQPhGJ8GrIGxcgkDA9a-btlm7Jy_6KmjouQ9R&__tn__=%2CO%2CP-R",
-        "target": "_blank"
-    },
-    {
         "id": "5",
         "category": "category-news",
-        "date": "15 Mar 2022",
+        "date": "15 Mar",
         "title": "NEW: Integration Hub",
         "text": "Introducing the Integration Hub! We have partnered with multiple accounting platforms, so you never have to worry about manually requesting invoices and price files again!",
         "image": "https://scontent-syd2-1.xx.fbcdn.net/v/t39.30808-6/275641325_5329305027094072_3330815575755913184_n.jpg?stp=dst-jpg_p526x296&_nc_cat=103&ccb=1-5&_nc_sid=a26aad&_nc_ohc=dNUAnklLYygAX9Al8-Q&_nc_ht=scontent-syd2-1.xx&oh=00_AT8NmrTvDQg9S_ivNgjVbrH0FgdNq6E3YVP493huLoy4hg&oe=624A0849",
@@ -22,7 +12,7 @@
     {
         "id": "4",
         "category": "category-news",
-        "date": "26 Nov 2021",
+        "date": "26 Nov",
         "title": "Ausco Modular Delivery!",
         "text": "First run of 10 pallets with a further 5 to deliver for Ausco Modular!",
         "image": "https://scontent-syd2-1.xx.fbcdn.net/v/t39.30808-6/260846799_4947801795244399_9033101660931022344_n.jpg?stp=dst-jpg_p180x540&_nc_cat=100&ccb=1-5&_nc_sid=a26aad&_nc_ohc=lYcvnOij_D0AX-wfjjc&_nc_ht=scontent-syd2-1.xx&oh=00_AT9WyDlnNdedzA1UZXJA0hm7Qnro6SikxWL_pJypnKOQbw&oe=624AB3DB",
@@ -32,7 +22,7 @@
     {
         "id": "3",
         "category": "category-promotion",
-        "date": "01 Sep 2021",
+        "date": "01 Sep",
         "title": "FREE $50 BWS Giveaway",
         "text": "During September & October, we are giving away a $50 BWS eGift card every time you buy two eligible Rheem Metro Hot Water Systems on the same invoice!",
         "image": "https://scontent-syd2-1.xx.fbcdn.net/v/t39.30808-6/239596668_4669680913056490_8443239671044342778_n.jpg?stp=dst-jpg_p526x296&_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_ohc=gl65RiwRIXMAX_QpjCV&_nc_ht=scontent-syd2-1.xx&oh=00_AT8LYzLc9WFDc4TUwSLdO3cZ6SzlCrWs_Fr83P5pbNnygg&oe=6249D5F6",
@@ -42,7 +32,7 @@
     {
         "id": "2",
         "category": "category-news",
-        "date": "27 Oct 2021",
+        "date": "27 Oct",
         "title": "Bob Armstrong wins AFL Footy Tipping!",
         "text": "Congratulations to Bob Armstrong from Rhino Industrial for taking out the AFL Footy Tipping competition this year!",
         "image": "https://scontent-syd2-1.xx.fbcdn.net/v/t39.30808-6/243290430_4850497124974867_3280167401181381358_n.jpg?stp=dst-jpg_p180x540&_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=EU3ob7Iwn8EAX9w37NT&_nc_ht=scontent-syd2-1.xx&oh=00_AT_5DwI_woPwEeFZYaxWvBItyOp-mXI4ujT-xVYn3Dim3A&oe=6249441B",
@@ -52,7 +42,7 @@
     {
         "id": "1",
         "category": "category-promotion",
-        "date": "02 Jun 2020",
+        "date": "02 Jun",
         "title": "FORZA $50 - $100 Gift Card",
         "text": "Buy any selected Forza Products online through our new website and receive a $50 or $100 Eftpos Gift Card.",
         "image": "https://www.forzaglobal.com.au/wp-content/uploads/2015/04/stainlesscrimp-540x540.png",
