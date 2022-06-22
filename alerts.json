@@ -4,7 +4,7 @@
         "icon": "info",
         "title": "COVID-19:",
         "description": "See the latest assessment and care options, plus temporary visitor restrictions.",
-        "link": "www.google.com",
+        "link": "http://www.google.com",
         "target": "_blank"
     }
 ]
