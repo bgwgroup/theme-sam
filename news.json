@@ -1,6 +1,5 @@
 [
     {
-        "id": "15",
         "category": "category-promotion",
         "date": "8 Sep",
         "video": "true",
@@ -11,7 +10,6 @@
         "target": "_blank"
     },
     {
-        "id": "14",
         "category": "category-promotion",
         "date": "02 Sep",
         "video": "false",
@@ -22,7 +20,6 @@
         "target": "_blank"
     },
     {
-        "id": "13",
         "category": "category-promotion",
         "date": "18 Aug",
         "video": "true",
@@ -33,7 +30,6 @@
         "target": "_blank"
     },
     {
-        "id": "12",
         "category": "category-promotion",
         "date": "11 Aug",
         "video": "true",
@@ -44,7 +40,6 @@
         "target": "_blank"
     },
     {
-        "id": "11",
         "category": "category-promotion",
         "date": "03 Aug",
         "video": "true",
@@ -55,7 +50,6 @@
         "target": "_blank"
     },
     {
-        "id": "10",
         "category": "category-news",
         "date": "01 Aug",
         "video": "true",
@@ -66,7 +60,6 @@
         "target": "_blank"
     },
     {
-        "id": "9",
         "category": "category-news",
         "date": "22 Jun",
         "video": "false",
@@ -77,7 +70,6 @@
         "target": "_blank"
     },
     {
-        "id": "8",
         "category": "category-promotion",
         "date": "08 Jun",
         "video": "true",
@@ -88,7 +80,6 @@
         "target": "_blank"
     },
     {
-        "id": "7",
         "category": "category-news",
         "date": "18 May",
         "video": "true",
@@ -99,7 +90,6 @@
         "target": "_blank"
     },
     {
-        "id": "6",
         "category": "category-promotion",
         "date": "12 May",
         "video": "true",
@@ -110,7 +100,6 @@
         "target": "_blank"
     },
     {
-        "id": "5",
         "category": "category-news",
         "date": "09 May",
         "video": "false",
@@ -121,7 +110,6 @@
         "target": "_blank"
     },
     {
-        "id": "4",
         "category": "category-promotion",
         "date": "21 Apr",
         "video": "true",
@@ -132,7 +120,6 @@
         "target": "_blank"
     },
     {
-        "id": "3",
         "category": "category-news",
         "date": "14 Apr",
         "video": "false",
@@ -143,7 +130,6 @@
         "target": "_blank"
     },
     {
-        "id": "2",
         "category": "category-promotion",
         "date": "02 Apr",
         "video": "false",
@@ -154,7 +140,6 @@
         "target": "_blank"
     },
     {
-        "id": "1",
         "category": "category-news",
         "date": "23 Mar",
         "video": "true",
