@@ -1,7 +1,7 @@
 [
     {
         "category": "category-promotion",
-        "date": "8 Sep",
+        "date": "08 Sep",
         "video": "true",
         "title": "Celebrating 75 Years of Samios",
         "text": "Surely you have been paying attention by now! We're celebrating 75 Years of Samios, and our good friends Forza Global have joined in on the celebrations!",
@@ -52,11 +52,11 @@
     {
         "category": "category-news",
         "date": "01 Aug",
-        "video": "true",
+        "video": "false",
         "title": "Celebrating 75 Years Of Samios",
         "text": "At Samios our goal has always been to partner with our customers to grow their business, through providing exceptional customer service and quality products from market leading brands. Doing so has enabled us to reach this 75 year milestone!",
         "image": "https://i.ibb.co/9NNQYjG/sam-75-celebrating.jpg",
-        "link": "https://www.facebook.com/SamiosPlumbing/videos/celebrating-75-years-of-samiosat-samios-our-goal-has-always-been-to-partner-with/744069226643687/",
+        "link": "https://shop.samios.net.au/celebrating-75-years-of-samios",
         "target": "_blank"
     },
     {
@@ -147,6 +147,26 @@
         "text": "Introducing the new Samios My Account Dashboard which features a more straightforward navigation, saving you valuable time and money!",
         "image": "https://i.ibb.co/CMqckQK/new-dashboard.jpg",
         "link": "https://www.facebook.com/SamiosPlumbing/videos/our-new-account-dashboard-has-launched-introducing-the-new-samios-my-account-das/1160734871396986/",
+        "target": "_blank"
+    },
+    {
+        "category": "category-news",
+        "date": "01 Mar",
+        "video": "false",
+        "title": "Introducing our new Integration Hub!",
+        "text": "We have partnered with multiple systems so you never have to worry about outdated invoices and or price files again.",
+        "image": "https://i.ibb.co/gR9WMFz/Samios-Integration-Hub-Image.png",
+        "link": "https://shop.samios.net.au/erp-integration",
+        "target": "_blank"
+    }, 
+    {
+        "category": "category-news",
+        "date": "01 Feb",
+        "video": "false",
+        "title": "Supplier Price Change Notifications",
+        "text": "In order to ensure complete transparency for all parties, we wish to keep you as informed as possible",
+        "image": "https://i.ibb.co/MBh6JFt/Samios-Supplier-Price-Rise-Notification-Image.png",
+        "link": "https://shop.samios.net.au/supplier-price-notifications",
         "target": "_blank"
     }
 ]
