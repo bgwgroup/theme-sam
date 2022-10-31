@@ -1,5 +1,4 @@
-[
-    {
+[{
         "category": "category-promotion",
         "date": "08 Sep",
         "video": "true",
@@ -7,6 +6,16 @@
         "text": "Surely you have been paying attention by now! We're celebrating 75 Years of Samios, and our good friends Forza Global have joined in on the celebrations!",
         "image": "https://i.ibb.co/S3JSW7w/sam-75-promo.jpg",
         "link": "https://www.facebook.com/SamiosPlumbing/videos/surely-you-have-been-paying-attention-by-now-were-celebrating-75-years-of-samios/470417474982051/",
+        "target": "_blank"
+    },
+    {
+        "category": "category-promotion",
+        "date": "31 Oct",
+        "video": "true",
+        "title": "Colouring Competition",
+        "text": "Get creative and win prizes",
+        "image": "/medias/sam-canvas.png?context=bWFzdGVyfGltYWdlc3wzNDIyODR8aW1hZ2UvcG5nfGgwYS9oYWUvOTk3OTQ0MzgwNjIzOC9zYW0tY2FudmFzLnBuZ3xkMjBlOTU2ZTZjYmQ0MzBkZWEyYzI2MzE2NWYwMDgxMDAwN2E1YmEyYTg1ZTVkMDcwM2YzNmY2MTdiMTIwNTNl",
+        "link": "https://shop.samios.net.au/colouring-competition",
         "target": "_blank"
     },
     {
@@ -158,7 +167,7 @@
         "image": "https://i.ibb.co/gR9WMFz/Samios-Integration-Hub-Image.png",
         "link": "https://shop.samios.net.au/erp-integration",
         "target": "_blank"
-    }, 
+    },
     {
         "category": "category-news",
         "date": "01 Feb",
