@@ -10,6 +10,15 @@
     },
     {
         "category": "category-promotion",
+        "date": "16 Nov",
+        "video": "true",
+        "title": "Sammy's Shoutout",
+        "text": "Get some cold one's with your hotties",
+        "image": "https://shop.samios.net.au/medias/sammys-shout-2022-slider.jpg?context=bWFzdGVyfGltYWdlc3w3NDk2Nzd8aW1hZ2UvanBlZ3xoOWQvaGY4Lzk5ODk0MTcxNzMwMjIvc2FtbXlzLXNob3V0LTIwMjItc2xpZGVyLmpwZ3w3MTQ4YmU2YWRmZjM5MDVhYmI5NzVmMGRmY2M3ZmMzMmNkOTZiNzkzNDY5ZmI3MjdkYTEzOTc2ZjQ2ZTRiZTRl",
+        "target": "_blank"
+    },
+    {
+        "category": "category-promotion",
         "date": "31 Oct",
         "video": "true",
         "title": "Colouring Competition",
