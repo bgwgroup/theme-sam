@@ -1,18 +1,274 @@
 [
   {
-    "title": "Australian Plastic Profiles (APP)",
-    "description": "AussieDuct is a key pillar of the larger Australian Plastic Profiles (APP) family, and an iconic brand in the Australian electrical products industry.",
-    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/australian-plastic-profiles.png",
-    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/australian-plastic-profiles-cover.jpg",
-    "rangeUrl": "/search/?text=Australian+Plastic+Profiles",
-    "website": "https://www.app.net.au/"
+    "title": "Abey",
+    "description": "Abey Australia has been synonymous with quality and innovation within the kitchen, laundry and bathroom industry, bringing the latest designs and technology to Australia.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/sam/abey.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/sam/abey-cover.jpg",
+    "rangeUrl": "/search/?text=Abey",
+    "website": "https://www.abey.com.au/"
   },
   {
-    "title": "B&R Enclosures",
-    "description": "Electrical enclosures, server racks and cabinets, plastic boxes, climate control systems and switchboard building products from B&R Enclosures.",
-    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/br-enclosures.svg",
-    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/br-enclosures-cover.jpg",
-    "rangeUrl": "/search/?text=B&R+Enclosures",
-    "website": "https://www.brenclosures.com.au/"
-  }
+    "title": "AVG",
+    "description": "AVG (Australian Valve Group) has been designing and developing a range of heating control valves in Australia since 1995. ",
+    "logoImg": "/_ui/responsive/common/images/suppliers/sam/avg.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/sam/avg-cover.jpg",
+    "rangeUrl": "/search/?text=AVG",
+    "website": "https://www.wattsau.com.au/our-story/brands/avg"
+  },
+  {
+    "title": "Bosch",
+    "description": "Invented for life: we want our products to spark enthusiasm, improve quality of life, and help conserve natural resources.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/sam/bosch.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/sam/bosch-cover.jpg",
+    "rangeUrl": "/search/?text=Bosch",
+    "website": "https://www.bosch.com.au/"
+  },
+  {
+    "title": "Brasshards",
+    "description": "Brasshards Holdings is an Australian owned and operated company established in 1967. With over 45 years experience in the industry, Brasshards prides itself on the ability to provide Australians with quality plumbing products at an affordable price.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/sam/brasshards.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/sam/brasshards-cover.jpg",
+    "rangeUrl": "/search/?text=Brasshards",
+    "website": "https://brasshards.com.au/"
+  },
+  {
+    "title": "Bromic",
+    "description": "Whether your application is residential, commercial or marine, Bromic is the global leader in gas and electric outdoor heating solutions.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/sam/bromic.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/sam/bromic-cover.jpg",
+    "rangeUrl": "/search/?text=Bromic",
+    "website": "https://www.bromic.com.au/"
+  },
+  {
+    "title": "Caroma",
+    "description": "Bathrooms by Caroma. Find quality toilets, plumbing fittings, baths, showers, basins and accessories for both domestic and commercial users.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/sam/caroma.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/sam/caroma-cover.jpg",
+    "rangeUrl": "/search/?text=Caroma",
+    "website": "https://www.caroma.com.au/"
+  },
+  {
+    "title": "Clark",
+    "description": "We’ve been around since 1941 believe it or not, with the CLARK brand becoming synonymous with quality kitchen and laundry sinks. We’re thrilled to now extend into Bathrooms, offering a variety of products that help make your renovation journey more fun! We get you, and we want to help you to create living spaces in your home that you love.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/sam/clark.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/sam/clark-cover.jpg",
+    "rangeUrl": "/search/?text=Clark",
+    "website": "https://www.clark.com.au/"
+  },
+  {
+    "title": "Con-serv",
+    "description": "Con-Serv specialises in the design, manufacture and supply of bathroom collections or mobility aids and plumbing for domestic and commercial environments.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/sam/con-serv.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/sam/con-serv-cover.jpg",
+    "rangeUrl": "/search/?text=Con+serv",
+    "website": "https://www.con-serv.com.au/"
+  },
+  {
+    "title": "Decina",
+    "description": "Decina is 100% Australian owned & an Australian Manufacturer & Supplier of Baths, Spa Baths, Showers, Toilets, Basins, Tap ware & Accessories, since 1989.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/sam/decina.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/sam/decina-cover.jpg",
+    "rangeUrl": "/search/?text=Decina",
+    "website": "https://decina.com.au/"
+  },
+  {
+    "title": "David Moss Corporation",
+    "description": "David Moss Corporation manufactures and supplies PE and PVC pipe and fittings and underground ventilation systems to Australian and international markets.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/sam/david-moss-corporation.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/sam/david-moss-corporation-cover.jpg",
+    "rangeUrl": "/search/?text=David+Moss+Corporation",
+    "website": "https://www.davidmoss.com.au/"
+  },
+  {
+    "title": "Dorf",
+    "description": "Dorf delivers tapware that combines carefully finessed looks, thoughtful engineering and reliability to Australian bathrooms, kitchens and laundries.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/sam/dorf.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/sam/dorf-cover.jpg",
+    "rangeUrl": "/search/?text=Dorf",
+    "website": "https://www.dorf.com.au/"
+  },
+  {
+    "title": "Dux",
+    "description": "An iconic Australian brand since 1915, the Dux range has seen continuous research and development, resulting in many breakthroughs in the efficiency, reliability and longevity of hot water systems.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/sam/dux.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/sam/dux-cover.jpg",
+    "rangeUrl": "/search/?text=Dux",
+    "website": "https://www.dux.com.au/"
+  },
+  {
+    "title": "Enware",
+    "description": "Enware helps customers with solutions for improved water infrastructure, fixture delivery, superior accessibility and improved compliance.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/sam/enware.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/sam/enware-cover.jpg",
+    "rangeUrl": "/search/?text=Enware",
+    "website": "https://www.enware.com.au/"
+  },
+  {
+    "title": "Everhard",
+    "description": "Find a retailer, browse our range of Laundry, Kitchen, Drainage and Wastewater solutions - residential & commercial. Everhard Industries.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/sam/everhard.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/sam/everhard-cover.jpg",
+    "rangeUrl": "/search/?text=Everhard",
+    "website": "https://www.everhard.com.au/"
+  },
+  {
+    "title": "Forza Global",
+    "description": "Forza Global is a manufacturing company specialising in gas and water systems for the Plumbing and Building Industries in Australia and New Zealand.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/sam/forza-global.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/sam/forza-global-cover.jpg",
+    "rangeUrl": "/search/?text=Forza+Global",
+    "website": "https://www.forzaglobal.com.au/"
+  },
+  {
+    "title": "Harbic",
+    "description": "Ram Tapware specialises in the design and manufacture of quality bathroom fittings. Ram (Harbic) has been manufacturing for over 70 years and is currently the largest manufacturer of tapware and waste outlets in Australia, employing around 80 staff. ",
+    "logoImg": "/_ui/responsive/common/images/suppliers/sam/ram.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/sam/ram-cover.jpg",
+    "rangeUrl": "/search/?text=Harbic",
+    "website": "https://ramtaps.com.au/harbic-brassware-jeff/"
+  },
+  {
+    "title": "iPlex",
+    "description": "Iplex supplies Irrigation, Plumbing, Gas and Electrical Telecommunications markets with a wide and complete range of pipe and fittings systems.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/sam/iplex.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/sam/iplex-cover.jpg",
+    "rangeUrl": "/search/?text=iPlex",
+    "website": "https://www.iplex.com.au/"
+  },
+  {
+    "title": "Kembla",
+    "description": "MM Kembla has been providing our customers with the highest quality and most reliable products and services for over 100 years. Established in 1916, MM Kembla is Australia’s only copper tube manufacturer.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/sam/kembla.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/sam/kembla-cover.jpg",
+    "rangeUrl": "/search/?text=Kembla",
+    "website": "https://www.kembla.com/"
+  },
+  {
+    "title": "Methven",
+    "description": "Water is an adventure of the skin and senses. From the tumble of a mountain stream to the immersive promise of a hot pool, water has the raw power to lift our mood and transform our state of mind.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/sam/methven.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/sam/methven-cover.jpg",
+    "rangeUrl": "/search/?text=Methven",
+    "website": "https://www.methven.com/"
+  },
+  {
+    "title": "Oliveri",
+    "description": "Discover Oliveri kitchen and laundry solutions; sinks, taps, filters and accessories. Choose your sink and tap with our product visualiser.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/sam/oliveri.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/sam/oliveri-cover.jpg",
+    "rangeUrl": "/search/?text=Oliveri",
+    "website": "https://oliveri.com.au/"
+  },
+  {
+    "title": "Elson",
+    "description": "Elson is an Australian owned and operated company since 1993 with our head office and national distribution centre based in Minchinbury NSW.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/sam/elson.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/sam/elson-cover.jpg",
+    "rangeUrl": "/search/?text=Elson",
+    "website": "https://elson.net.au/"
+  },
+  {
+    "title": "Pipe King",
+    "description": "Experts in PVC extrusion and injection moulding, committed to helping our clients – from design, development, production and fabrication to marketing, delivery, service and support.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/sam/pipeking.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/sam/pipeking-cover.jpg",
+    "rangeUrl": "/search/?text=Pipe+King",
+    "website": "https://www.pipeking.com.au/"
+  },
+  {
+    "title": "Pipemakers",
+    "description": "A Queensland based Australia-wide company with the experience based knowledge you need and an efficient and reliable national distribution network.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/sam/pipemakers.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/sam/pipemakers-cover.jpg",
+    "rangeUrl": "/search/?text=Pipemakers",
+    "website": "https://www.pipemakers.com.au/"
+  },
+  {
+    "title": "Plasson",
+    "description": "Plasson revolutionized the way polyethylene pipes were connected in the 1960’s starting with agricultural irrigation fittings and then solutions for urban water distribution.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/sam/plasson.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/sam/plasson-cover.jpg",
+    "rangeUrl": "/search/?text=Plasson",
+    "website": "https://plasson.com.au/"
+  },
+  {
+    "title": "Plastec",
+    "description": "A plumbing products manufacturer. We manufacture & supply innovative plumbing products for use by plumbers, tilers & waterproofers.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/sam/plastec.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/sam/plastec-cover.jpg",
+    "rangeUrl": "/search/?text=Plastec",
+    "website": "https://www.plastec.com.au/"
+  },
+  {
+    "title": "Ram Tapware",
+    "description": "Ramtaps Pty Ltd is a privately owned manufacturing company producing bathroom products under the Ram Tapware and Harbic Brassware brands.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/sam/ram.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/sam/ram-cover.jpg",
+    "rangeUrl": "/search/?text=Ram+Tapware",
+    "website": "https://ramtaps.com.au/"
+  },
+  {
+    "title": "Reliance",
+    "description": "RMC Reliance Valves was born in Brisbane, Australia in 1949, from the passion to make water heating systems safer, cleaner and less prone to failures.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/sam/reliance.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/sam/reliance-cover.jpg",
+    "rangeUrl": "/search/?text=Reliance",
+    "website": "https://www.rmc.com.au/"
+  },
+  {
+    "title": "Reln",
+    "description": "RELN is a second generation Australian-Owned family business that has been operating for almost 70 years.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/sam/reln.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/sam/reln-cover.jpg",
+    "rangeUrl": "/search/?text=Reln",
+    "website": "https://reln.com.au/"
+  },
+  {
+    "title": "Rheem",
+    "description": "Rheem hot water systems have been trusted for generations…... right back to 1939.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/sam/rheem.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/sam/rheem-cover.jpg",
+    "rangeUrl": "/search/?text=Rheem",
+    "website": "https://www.rheem.com.au/"
+  },
+  {
+    "title": "Ridgid",
+    "description": "Since the day we invented the modern pipe wrench, we’ve made it our mission to build for the world's expert tradespeople – those who know the limits of the job and how to exceed them.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/sam/ridgid.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/sam/ridgid-cover.jpg",
+    "rangeUrl": "/search/?text=Ridgid",
+    "website": "https://www.ridgid.com/"
+  },
+  {
+    "title": "Rinnai",
+    "description": "You can trust Rinnai to help you keep your cool when the Australian summer starts to heat up.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/sam/rinnai.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/sam/rinnai-cover.jpg",
+    "rangeUrl": "/search/?text=Rinnai",
+    "website": "https://www.rinnai.com.au/"
+  },
+  {
+    "title": "Vinidex",
+    "description": "Vinidex is a leader in Australian manufacturing and supply of advanced pipe systems and solutions, connecting Australian people with water and energy.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/sam/vinidex.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/sam/vinidex-cover.jpg",
+    "rangeUrl": "/search/?text=Vinidex",
+    "website": "https://www.vinidex.com.au/"
+  },
+  {
+    "title": "Zetco",
+    "description": "Zetco is a national valve distributor, specialising in the importation and distribution of high quality ball, gate, globe and check valves. Zetco has built a reputation as a supplier of choice with excellent standards of service and an extensive range.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/sam/zetco.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/sam/zetco-cover.jpg",
+    "rangeUrl": "/search/?text=Zetco",
+    "website": "https://www.zetco.com.au/"
+  },
+  {
+    "title": "Zip",
+    "description": "Zip Water. Zip award winning technology transforms water instantly. Filtered, boiling, chilled, sparkling for home and business. Zip Australia.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/sam/zip.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/sam/zip-cover.jpg",
+    "rangeUrl": "/search/?text=Zip",
+    "website": "https://www.zipwater.com/"
+  },
 ]
