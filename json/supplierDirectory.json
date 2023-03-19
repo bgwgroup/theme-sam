@@ -1,18 +1,18 @@
 [
   {
-    "title": "Test 1",
-    "description": "Abey Australia has been synonymous with quality and innovation within the kitchen, laundry and bathroom industry, bringing the latest designs and technology to Australia.",
-    "logoImg": "https://shop.samios.net.au/_ui/responsive/common/images/brands/samios/color/abey.png",
-    "coverImg": "https://shop.samios.net.au/_ui/responsive/theme-newsam/images/suppliers/abey.jpg",
-    "rangeUrl": "/search/?text=Abey",
-    "website": "http://www.abey.com.au/"
+    "title": "Australian Plastic Profiles (APP)",
+    "description": "AussieDuct is a key pillar of the larger Australian Plastic Profiles (APP) family, and an iconic brand in the Australian electrical products industry.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/australian-plastic-profiles.png",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/australian-plastic-profiles-cover.jpg",
+    "rangeUrl": "/search/?text=Australian+Plastic+Profiles",
+    "website": "https://www.app.net.au/"
   },
   {
-    "title": "Test 2",
-    "description": "Zip is developing products that save money, save water and are more energy efficient than ever. Providing a wide range of instant boiling water, chilled/filtered water, touch free washrooms and hot water systems.",
-    "logoImg": "https://shop.samios.net.au/_ui/responsive/common/images/brands/samios/color/zip.png",
-    "coverImg": "https://shop.samios.net.au/_ui/responsive/theme-newsam/images/suppliers/zip.jpg",
-    "rangeUrl": "/search/?text=Zip",
-    "website": "https://www.zipwater.com/"
+    "title": "B&R Enclosures",
+    "description": "Electrical enclosures, server racks and cabinets, plastic boxes, climate control systems and switchboard building products from B&R Enclosures.",
+    "logoImg": "/_ui/responsive/common/images/suppliers/cnw/br-enclosures.svg",
+    "coverImg": "/_ui/responsive/common/images/suppliers/cnw/br-enclosures-cover.jpg",
+    "rangeUrl": "/search/?text=B&R+Enclosures",
+    "website": "https://www.brenclosures.com.au/"
   }
 ]
