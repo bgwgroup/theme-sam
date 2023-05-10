@@ -1,122 +1,98 @@
 [
   {
-    "title": "Abey",
-    "logo": "/_ui/responsive/common/images/brands/samios/white/abey.png",
+    "logo": "abey",
     "link": "/All-Categories/c/ALLCATEGORIES?q=%3Arelevance%3Asam_brands%3AAbey"
   },
   {
-    "title": "Aquamax",
-    "logo": "/_ui/responsive/common/images/brands/samios/white/aquamax.png",
+    "logo": "aquamax",
     "link": "/All-Categories/Hot-Water/c/HOTWATER?q=%3Arelevance%3Asam_brands%3AAquamax"
   },
   {
-    "title": "AVG Valves",
-    "logo": "/_ui/responsive/common/images/brands/samios/white/AVG.png",
+    "logo": "AVG",
     "link": "/All-Categories/c/ALLCATEGORIES?q=%3Arelevance%3Asam_brands%3AAVG"
   },
   {
-    "title": "Austworld",
-    "logo": "/_ui/responsive/common/images/brands/samios/white/austworld.png",
+    "logo": "austworld",
     "link": "/All-Categories/c/ALLCATEGORIES?q=%3Arelevance%3Asam_brands%3AAustworld"
   },
   {
-    "title": "Brasshards",
-    "logo": "/_ui/responsive/common/images/brands/samios/white/brasshards.png",
+    "logo": "brasshards",
     "link": "/All-Categories/c/ALLCATEGORIES?q=%3Arelevance%3Asam_brands%3ABrasshards"
   },
   {
-    "title": "Caroma",
-    "logo": "/_ui/responsive/common/images/brands/samios/white/caroma.png",
+    "logo": "caroma",
     "link": "/All-Categories/c/ALLCATEGORIES?q=%3Arelevance%3Asam_brands%3ACaroma"
   },
   {
-    "title": "Enware",
-    "logo": "/_ui/responsive/common/images/brands/samios/white/enware.png",
+    "logo": "enware",
     "link": "/All-Categories/c/ALLCATEGORIES?q=%3Arelevance%3Asam_brands%3AEnware"
   },
   {
-    "title": "Everhard",
-    "logo": "/_ui/responsive/common/images/brands/samios/white/everhard.png",
+    "logo": "everhard",
     "link": "/All-Categories/c/ALLCATEGORIES?q=%3Arelevance%3Asam_brands%3AEverhard"
   },
   {
-    "title": "Forza Global",
-    "logo": "/_ui/responsive/common/images/brands/samios/white/forza.png",
+    "logo": "forza",
     "link": "/All-Categories/c/ALLCATEGORIES?q=%3Arelevance%3Asam_brands%3AForza"
   },
   {
-    "title": "Fienza",
-    "logo": "/_ui/responsive/common/images/brands/samios/white/fienza.png",
+    "logo": "fienza",
     "link": "/All-Categories/c/ALLCATEGORIES?q=%3Arelevance%3Asam_brands%3AFienza"
   },
   {
-    "title": "Pentair",
-    "logo": "/_ui/responsive/common/images/brands/samios/white/pentair.png",
+    "logo": "pentair",
     "link": "/search/?text=pentair"
   },
   {
-    "title": "Phoenix",
-    "logo": "/_ui/responsive/common/images/brands/samios/white/phoenix.png",
+    "logo": "phoenix",
     "link": "/All-Categories/Bathroom%2C-Kitchen-%26-Laundry/c/BATHROOMKITCHENLAUNDRY?q=%3Arelevance%3Asam_brands%3APhoenix"
   },
   {
-    "title": "Plastec",
-    "logo": "/_ui/responsive/common/images/brands/samios/white/plastec.png",
+    "logo": "plastec",
     "link": "/All-Categories/Plastic-Pipe-%26-Fittings/c/PLASTICPIPEFITTINGS?q=%3Arelevance%3Asam_brands%3APlastec"
   },
   {
-    "title": "Ram",
-    "logo": "/_ui/responsive/common/images/brands/samios/white/ram.png",
+    "logo": "ram",
     "link": "/All-Categories/Bathroom%2C-Kitchen-%26-Laundry/c/BATHROOMKITCHENLAUNDRY?q=%3Arelevance%3Asam_brands%3ARam"
   },
   {
-    "title": "Reliance",
-    "logo": "/_ui/responsive/common/images/brands/samios/white/reliance.png",
+    "logo": "reliance",
     "link": "/search/?text=rwc"
   },
   {
-    "title": "Reln",
-    "logo": "/_ui/responsive/common/images/brands/samios/white/reln.png",
+    "logo": "reln",
     "link": "/search/?text=reln"
   },
   {
-    "title": "Rheem",
-    "logo": "/_ui/responsive/common/images/brands/samios/white/rheem.png",
+    "logo": "rheem",
     "link": "/All-Categories/Hot-Water/c/HOTWATER?q=%3Arelevance%3Asam_brands%3ARheem"
   },
   {
-    "title": "Rinnai",
-    "logo": "/_ui/responsive/common/images/brands/samios/white/rinnai.png",
+    "logo": "rinnai",
     "link": "/All-Categories/Hot-Water/c/HOTWATER?q=%3Arelevance%3Asam_brands%3ARinnai"
   },
   {
-    "title": "RLA",
-    "logo": "/_ui/responsive/common/images/brands/samios/white/rla.png",
+    "logo": "rla",
     "link": "/All-Categories/Hardware-%26-Consumables/Adhesives-%26-Sealants/c/ADHESIVESSEALANTS?q=:relevance"
   },
   {
-    "title": "Sheffield",
-    "logo": "/_ui/responsive/common/images/brands/samios/white/sheffield.png",
+    "logo": "sheffield",
     "link": "/search/?text=sheffield"
   },
   {
-    "title": "Sonata",
-    "logo": "/_ui/responsive/common/images/brands/samios/white/sonata.png",
+    "logo": "sonata",
     "link": "/All-Categories/c/ALLCATEGORIES?q=%3Arelevance%3Asam_brands%3ASonata"
   },
   {
-    "title": "Stiebel",
-    "logo": "/_ui/responsive/common/images/brands/samios/white/stiebel.png",
+    "logo": "stiebel",
     "link": "/All-Categories/Hot-Water/c/HOTWATER?q=%3Arelevance%3Asam_brands%3AStiebel"
   },
   {
-    "title": "Vulcan",
-    "logo": "/_ui/responsive/common/images/brands/samios/white/vulcan.png",
+    "logo": "vulcan",
     "link": "/All-Categories/Hot-Water/c/HOTWATER?q=%3Arelevance%3Asam_brands%3AVulcan"
   },
   {
-    "title": "Zip Water",
-    "logo": "/_ui/responsive/common/images/brands/samios/white/zip.png",
+    "logo": "zip",
     "link": "/search/?text=zip"
   }
 ]
