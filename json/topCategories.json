@@ -1,58 +1,30 @@
 [
    {
-      "title":"Switches & Sockets",
+      "title":"Hot Water",
       "subtitle":"Shop now",
-      "icon":"/_ui/responsive/common/images/category-icons/icon-switches-sockets.png",
-      "image":"https://source.unsplash.com/random/800x500/?animal",
-      "link":"#"
+      "icon":"",
+      "image":"/_ui/responsive/common/images/samios/top-categories/hot-water.jpg",
+      "link":"/All-Categories/Hot-Water/c/HOTWATER"
    },
-  {
-      "title":"Air Movement",
+   {
+      "title":"Pex Pipe & Fittings",
       "subtitle":"Shop now",
-      "icon":"/_ui/responsive/common/images/category-icons/icon-hvac.png",
-      "image":"https://source.unsplash.com/random/800x500/?animal",
-      "link":"#"
+      "icon":"",
+      "image":"/_ui/responsive/common/images/samios/top-categories/pex.jpgg",
+      "link":"/All-Categories/Pipe-%26-Fittings/PB-%26-PEX/c/PBPEX?q=:relevance"
    },
-  {
-      "title":"Lighting",
+   {
+      "title":"Plastic Pipe & Fittings",
       "subtitle":"Shop now",
-      "icon":"/_ui/responsive/common/images/category-icons/icon-lighting.png",
-      "image":"https://source.unsplash.com/random/800x500/?animal",
-      "link":"#"
+      "icon":"",
+      "image":"/_ui/responsive/common/images/samios/top-categories/plastic.jpg",
+      "link":"/All-Categories/Plastic-Pipe-%26-Fittings/c/PLASTICPIPEFITTINGS"
    },
-  {
-      "title":"Cable",
+   {
+      "title":"Copper Pipe & Fittings",
       "subtitle":"Shop now",
-      "icon":"/_ui/responsive/common/images/category-icons/icon-cable-wire.png",
-      "image":"https://source.unsplash.com/random/800x500/?animal",
-      "link":"#"
-   },
-  {
-      "title":"Conduit & Fittings",
-      "subtitle":"Shop now",
-      "icon":"/_ui/responsive/common/images/category-icons/icon-conduit-fittings.png",
-      "image":"https://source.unsplash.com/random/800x500/?animal",
-      "link":"#"
-   },
-  {
-      "title":"Industrial",
-      "subtitle":"Shop now",
-      "icon":"/_ui/responsive/common/images/category-icons/icon-industrial.png",
-      "image":"https://source.unsplash.com/random/800x500/?animal",
-      "link":"#"
-   },
-  {
-      "title":"Installation",
-      "subtitle":"Shop now",
-      "icon":"/_ui/responsive/common/images/category-icons/icon-installation.png",
-      "image":"https://source.unsplash.com/random/800x500/?animal",
-      "link":"#"
-   },
-  {
-      "title":"Hardware & Consumables",
-      "subtitle":"Shop now",
-      "icon":"/_ui/responsive/common/images/category-icons/icon-hardware.png",
-      "image":"https://source.unsplash.com/random/800x500/?animal",
-      "link":"#"
+      "icon":"",
+      "image":"/_ui/responsive/common/images/samios/top-categories/copper.jpg",
+      "link":"/All-Categories/Copper%2C-Brass-%26-Steel-Pipe-%26-Fittings/c/CUBRASTELLPIPEFITTINGS"
    }
 ]
