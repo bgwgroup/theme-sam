@@ -1,30 +1,52 @@
 [
    {
       "title":"Hot Water",
-      "subtitle":"Shop now",
+      "subtitle":"",
       "icon":"",
-      "image":"/_ui/responsive/common/images/samios/top-categories/hot-water.jpg",
-      "link":"/All-Categories/Hot-Water/c/HOTWATER"
+      "image":"",
+      "link":"/sam/en/AUD/All-Categories/Hot-Water/Electric-Storage/RHEEM-ELEC-250L-1X1-8KW/p/RHE491250G4U04"
    },
    {
       "title":"Pex Pipe & Fittings",
-      "subtitle":"Shop now",
+      "subtitle":"",
       "icon":"",
-      "image":"/_ui/responsive/common/images/samios/top-categories/pex.jpg",
-      "link":"/All-Categories/Pipe-%26-Fittings/PB-%26-PEX/c/PBPEX?q=:relevance"
-   },
-   {
+      "image":"",
+      "link":"/sam/en/AUD/All-Categories/Forza-Crimp/TEE-FORZA-CRIMP-25MM/p/403145Q04"
+   },{
       "title":"Plastic Pipe & Fittings",
-      "subtitle":"Shop now",
+      "subtitle":"",
       "icon":"",
-      "image":"/_ui/responsive/common/images/samios/top-categories/plastic.jpg",
-      "link":"/All-Categories/Plastic-Pipe-%26-Fittings/c/PLASTICPIPEFITTINGS"
-   },
-   {
+      "image":"",
+      "link":"/sam/en/AUD/All-Categories/Plastic-Pipe-%26-Fittings/DWV-Bends/BEND-DWV-PLN-F%26F-100MM-X-90/p/102033P03"
+   },{
       "title":"Copper Pipe & Fittings",
-      "subtitle":"Shop now",
+      "subtitle":"",
       "icon":"",
-      "image":"/_ui/responsive/common/images/samios/top-categories/copper.jpg",
-      "link":"/All-Categories/Copper%2C-Brass-%26-Steel-Pipe-%26-Fittings/c/CUBRASTELLPIPEFITTINGS"
+      "image":"",
+      "link":"/sam/en/AUD/All-Categories/Copper%2C-Brass-%26-Steel-Pipe-%26-Fittings/Copper-Pressfit-%28Forza%29/Forza-V-Press-Water/V-Press-Elbow/ELBOW-V-PRESS-WATER-20MM-X-90/p/207307R07"
+   },{
+      "title":"Bathroom",
+      "subtitle":"",
+      "icon":"",
+      "image":"",
+      "link":"/sam/en/AUD/All-Categories/Bathroom%2C-Kitchen-%26-Laundry/Bathroom/Toilets/Toilet-Suites/KORE-PLUS-BTW-SUITE-RIMLESS/p/901115X01"
+   },{
+      "title":"Kitchen",
+      "subtitle":"",
+      "icon":"",
+      "image":"",
+      "link":"/sam/en/AUD/All-Categories/Bathroom%2C-Kitchen-%26-Laundry/Kitchen/Kitchen-Sink-Mixers/SOPRANO-KITCHEN-MIXER/p/904303X41"
+   },{
+      "title":"Laundry",
+      "subtitle":"",
+      "icon":"",
+      "image":"",
+      "link":"/sam/en/AUD/All-Categories/Bathroom%2C-Kitchen-%26-Laundry/Laundry/Tubs-%26-Cabinets/PROJECT-45SS-LAUNDRY-UNIT/p/EVR71C4510X84"
+   },{
+      "title":"Hardware",
+      "subtitle":"",
+      "icon":"",
+      "image":"",
+      "link":"/sam/en/AUD/All-Categories/Hardware-%26-Consumables/Silicone-%26-Sealants/SILICONE-ROOF-%26-GUTTER-CLEAR-300GM/p/161051V41"
    }
 ]
