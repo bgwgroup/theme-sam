@@ -4,7 +4,15 @@
       "subtitle":"Easier than ever!",
       "imgDesktop":"",
       "imgMobile":"",
-      "btnText":"Learn more",
+      "btnText":"Connect Now",
+      "btnLink":"#"
+   },
+   {
+      "title":"Kore",
+      "subtitle":"Bathroom, Kitchen & Laundry!",
+      "imgDesktop":"",
+      "imgMobile":"",
+      "btnText":"Shop Range",
       "btnLink":"#"
    }
 ]
