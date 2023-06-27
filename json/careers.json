@@ -1,5 +1,6 @@
 [
   {
+    "active": "true",
     "department": "Sales",
     "employmentType": "Full-time",
     "title": "Striker - Northern Beaches, NSW",
@@ -8,6 +9,7 @@
     "url": "#"
   },
   {
+    "active": "true",
     "department": "Sales",
     "employmentType": "Full-time",
     "title": "Musketeer, Sunshine Coast + North Brisbane",
@@ -16,6 +18,7 @@
     "url": "#"
   },
   {
+    "active": "true",
     "department": "Marketing",
     "employmentType": "Full-time",
     "title": "Advertising & Media Manager",
