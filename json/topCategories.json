@@ -77,10 +77,10 @@
       "link":"https://shop.samios.net.au/sam/en/AUD/All-Categories/Hardware-%26-Consumables/c/HARDWARECONSUMABLES"
    },
    {
-      "title":"Hardware",
+      "title":"View All Categories",
       "subtitle":"",
-      "icon":"",
-      "image":"https://i.ibb.co/TgrGYBK/hardware.png",
-      "link":"https://shop.samios.net.au/sam/en/AUD/All-Categories/Hardware-%26-Consumables/c/HARDWARECONSUMABLES"
+      "icon":"search",
+      "image":"",
+      "link":"/All-Categories"
    }
 ]
