@@ -2,10 +2,10 @@
    {
       "title":"Integration HUB",
       "subtitle":"Easier than ever!",
-      "imgDesktop":"",
-      "imgMobile":"",
-      "btnText":"Connect Now",
-      "btnLink":"#"
+      "imgDesktop":"https://i.ibb.co/840fTfF/cnw-erp-4.jpg",
+      "imgMobile":"https://i.ibb.co/840fTfF/cnw-erp-4.jpg",
+      "btnText":"Connect now",
+      "btnLink":"/erp-integration"
    },
    {
       "title":"Kore Range",
