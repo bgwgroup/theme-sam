@@ -6,6 +6,7 @@
         "title": "Sammymas is here!",
         "text": "Get a Rinnai, Rheem, Vulcan or Aquamax hotwater unit with an AVG valve - AND EARN POINTS to REDEEM FOR A PRIZE!",
         "image": "https://i.ibb.co/58zYszz/sammy-thumbnails-mobile-2023.png",
+        "expired" : "false",
         "link": "https://shop.samios.net.au/sammy-mas-promotion-2023",
         "target": "_blank"
     },
@@ -16,6 +17,7 @@
         "title": "Celebrating 75 Years of Samios",
         "text": "Surely you have been paying attention by now! We're celebrating 75 Years of Samios, and our good friends Forza Global have joined in on the celebrations!",
         "image": "https://i.ibb.co/S3JSW7w/sam-75-promo.jpg",
+        "expired" : "false",
         "link": "https://www.facebook.com/SamiosPlumbing/videos/surely-you-have-been-paying-attention-by-now-were-celebrating-75-years-of-samios/470417474982051/",
         "target": "_blank"
     },
@@ -26,6 +28,7 @@
         "title": "Sammy's Shoutout",
         "text": "Get some cold one's with your hotties",
         "image": "https://shop.samios.net.au/medias/sammys-shout-2022-slider.jpg?context=bWFzdGVyfGltYWdlc3w3NDk2Nzd8aW1hZ2UvanBlZ3xoOWQvaGY4Lzk5ODk0MTcxNzMwMjIvc2FtbXlzLXNob3V0LTIwMjItc2xpZGVyLmpwZ3w3MTQ4YmU2YWRmZjM5MDVhYmI5NzVmMGRmY2M3ZmMzMmNkOTZiNzkzNDY5ZmI3MjdkYTEzOTc2ZjQ2ZTRiZTRl",
+        "expired" : "false",
         "link": "/sammys-shoutout",
         "target": "_blank"
     },
@@ -36,6 +39,7 @@
         "title": "Colouring Competition",
         "text": "Get creative and win prizes",
         "image": "https://shop.samios.net.au/medias/sam-canvas.png?context=bWFzdGVyfGltYWdlc3wzNDIyODR8aW1hZ2UvcG5nfGgwYS9oYWUvOTk3OTQ0MzgwNjIzOC9zYW0tY2FudmFzLnBuZ3xkMjBlOTU2ZTZjYmQ0MzBkZWEyYzI2MzE2NWYwMDgxMDAwN2E1YmEyYTg1ZTVkMDcwM2YzNmY2MTdiMTIwNTNl",
+        "expired" : "false",
         "link": "https://shop.samios.net.au/colouring-competition",
         "target": "_blank"
     },
@@ -46,6 +50,7 @@
         "title": "The Great Double Dip",
         "text": "We want you to WIN, so we've broken all the rules and extended the redemption period for one more week!",
         "image": "https://i.ibb.co/HnHKmbR/304684969-5809470782410825-8326709358160229883-n.jpg",
+        "expired" : "false",
         "link": "https://www.facebook.com/SamiosPlumbing/posts/pfbid02r9Q1D8AZtaxfzxXhQCfDZim9Vud91sWQHd8KSWgPXfsTWk6qYrBvMZiXLVVhV92Ml?__cft__[0]=AZVtSHzjK8AF9Nr7tg7NPo9our1BSZfblW2fAlrwYMwM4lgdCuKV4TPKdYZgmkPn0oR2Drq2gwlhKUGDXlHSi5rVP6uvl5_LdNNy_VjqJX6qkcPJCf2gCKMVICIiBdLbO1qMAIXf8rWbHRNyklRldl5Hox3gES2W8okY3cUgetJk1MZ7QgDR_YIWp0tT92L16V8kpuh2rLxEaUBHqj3tIYVf&__tn__=%2CO%2CP-R",
         "target": "_blank"
     },
@@ -56,6 +61,7 @@
         "title": "Win a TCL QUHD TV!",
         "text": "For every $250+GST spent on Caroma you will go into the branch prize pool draw for a chance to win a TCL QUHD TV!",
         "image": "https://i.ibb.co/LRsG0gb/gdfdfg.jpg",
+        "expired" : "false",
         "link": "https://www.facebook.com/SamiosPlumbing/videos/win-a-tcl-quhd-tvsamios-is-celebrating-75-years-with-our-biggest-promotion-ever-/1226807984827604/",
         "target": "_blank"
     },
@@ -66,6 +72,7 @@
         "title": "Win an Engel Portable Fridge Freezer!",
         "text": "For every $250+GST spent on Rinnai you will go into the branch prize pool draw for a chance to win an Engel Portable Fridge Freezer! ",
         "image": "https://i.ibb.co/Y2cMh65/asdasd.jpg",
+        "expired" : "false",
         "link": "https://www.facebook.com/SamiosPlumbing/posts/pfbid02qdoSUCdeJSesQff5gaSoWTZLJke2RNjUUWS5SyNiybg2ysFFPXf1J9MD7WQgDWLCl?__cft__[0]=AZWA_8SbYwsKUGNPapK8bnf65D9Az6sRAAqmgNUsMacmMq3oAWbNIDQnDktDhu6O1ELWIRLxQH9OnBRt8ddqexltNAvcx6xYDqcXBysSZvwMI6dhdiyZBjJLzkV42Y0IQChAdkQ7B46VjcHhSVfUsdSLKzk3YZ-tPnW_UPHzDHfVArFWhkmHa-pB1AcC150xokym45J1JookfRZ3DzlWJoA3t7U7-A3T1PJZNkvGfG4GAg&__tn__=%2CO%2CP-R",
         "target": "_blank"
     },
@@ -75,6 +82,7 @@
         "video": "true",
         "title": "Win a Yeti Prize Pack!",
         "text": "Simply spend $250+GST on Everhard products and receive an entry into winning a Yeti Prize Pack*",
+        "expired" : "false",
         "image": "https://i.ibb.co/yyNGvc6/dfghfghdfgh.jpg",
         "link": "https://www.facebook.com/SamiosPlumbing/posts/pfbid033Ty8dZddFNpahymJZmWLXFgowRNwfFf1GyG8T96AR8LmmCRGbEPY3w7cK5dJ7bBUl?__cft__[0]=AZXkw1HoYGkMJoHEqcIYkkCHC9s9Pl6AcKxTCvlcdder2SK1ANKpPXMUK0w49ZlMEU_OWF1KBK4Top6kGrCMkmkdz6XlTPKwWwZ9pJVYs_4rgdcTl-dW8mMUhxGoq_rMcgb7V5unER4rYDJEhzU-6-8vWXLA3c94xAEL3HjL5TcWh1hA5RUrI15A3ntmGzHGYVJ6ATNiqMpk4BKUVSpsnrpj&__tn__=%2CO%2CP-R",
         "target": "_blank"
@@ -106,6 +114,7 @@
         "title": "Hot Water units are falling off the shelves fast!",
         "text": "Get yours now and be rewarded. We are in the final month of The Great Double Dip 2.0. Not much longer to get redeeming!",
         "image": "https://i.ibb.co/k6P5Jh0/talking-to-the-moon.jpg",
+        "expired" : "false",
         "link": "https://www.facebook.com/SamiosPlumbing/videos/hot-water-units-are-falling-off-the-shelves-fast-get-yours-now-and-be-rewarded-w/563678081981115/",
         "target": "_blank"
     },
@@ -126,6 +135,7 @@
         "title": "Sammy is watching closely!",
         "text": "No better opportunity than now to stock up on your hot water units and valves! Let Sammy reward you, Get your points now!",
         "image": "https://i.ibb.co/3dpJ6dd/sammy-watching-closely.jpg",
+        "expired" : "false",
         "link": "https://www.facebook.com/SamiosPlumbing/videos/sammy-is-watching-closely-no-better-opportunity-than-now-to-stock-up-on-your-hot/492878852594055/",
         "target": "_blank"
     },
@@ -146,6 +156,7 @@
         "title": "Does Sammy Launch?",
         "text": "Maybe, but Double Dip definitely has! Stick around to see what happens next!",
         "image": "https://i.ibb.co/VgKmxkG/does-sammy-launch.jpg",
+        "expired" : "false",
         "link": "https://www.facebook.com/SamiosPlumbing/videos/does-sammy-launch-maybe-but-double-dip-definitely-has-stick-around-to-see-what-h/658364755259205/",
         "target": "_blank"
     },
