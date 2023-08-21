@@ -1,15 +1,15 @@
+// hide Sammy-mas promotion tile until 25th Aug then bring it back after
+// {
+//     "category": "category-promotion",
+//     "date": "01 Apr",
+//     "video": "true",
+//     "title": "Sammymas is here!",
+//     "text": "Get a Rinnai, Rheem, Vulcan or Aquamax hotwater unit with an AVG valve - AND EARN POINTS to REDEEM FOR A PRIZE!",
+//     "image": "/medias/sammy-thumbnails-mobile-2023.png?context=bWFzdGVyfGltYWdlc3wxOTE2NTR8aW1hZ2UvcG5nfGhiZC9oZGQvMTAwNDc5NDU3Njg5OTAvc2FtbXktdGh1bWJuYWlscy1tb2JpbGUtMjAyMy5wbmd8OTJlOWZiNDY4YjQ5MTg4MWNiZDk1YWU5ODVjMjg0ZjQ0MWNiNDFlNDYyNjE4MjBhYWE3ZjI0M2QyODRiODQzNg",
+//     "link": "https://shop.samios.net.au/sammy-mas-promotion-2023",
+//     "target": "_blank"
+// },
 [
-    // hide Sammy-mas promotion tile until 25th Aug then bring it back after
-    // {
-    //     "category": "category-promotion",
-    //     "date": "01 Apr",
-    //     "video": "true",
-    //     "title": "Sammymas is here!",
-    //     "text": "Get a Rinnai, Rheem, Vulcan or Aquamax hotwater unit with an AVG valve - AND EARN POINTS to REDEEM FOR A PRIZE!",
-    //     "image": "/medias/sammy-thumbnails-mobile-2023.png?context=bWFzdGVyfGltYWdlc3wxOTE2NTR8aW1hZ2UvcG5nfGhiZC9oZGQvMTAwNDc5NDU3Njg5OTAvc2FtbXktdGh1bWJuYWlscy1tb2JpbGUtMjAyMy5wbmd8OTJlOWZiNDY4YjQ5MTg4MWNiZDk1YWU5ODVjMjg0ZjQ0MWNiNDFlNDYyNjE4MjBhYWE3ZjI0M2QyODRiODQzNg",
-    //     "link": "https://shop.samios.net.au/sammy-mas-promotion-2023",
-    //     "target": "_blank"
-    // },
     {
         "category": "category-promotion",
         "date": "08 Sep",
