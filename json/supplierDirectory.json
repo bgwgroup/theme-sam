@@ -147,17 +147,17 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/sam/con-serv-cover.jpg",
     "rangeUrl": "/search/?text=Con+serv",
     "website": "https://www.con-serv.com.au/",
-    "dataSplit": "",
+    "dataSplit": "true",
     "dataTopBanner": "",
     "dataTitle": "",
     "dataDescription": "",
-    "dataHtmlBlock1": "",
+    "dataHtmlBlock1": "&lt;div class=&quot;logo-container&quot;&gt; &lt;div class=&quot;logo&quot;&gt; &lt;img src=&quot;https://i.ibb.co/n7vfcZ2/logo.png&quot; alt=&quot;Con-Serv logo&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;sliderComponent&quot; data-id=&quot;sliderHeader&quot; data-effect=&quot;fade&quot; data-autoplay=&quot;true&quot; data-loop=&quot;true&quot; data-slides=&quot;https://i.ibb.co/yVJmPD8/con-serv-banner-1.jpg,https://i.ibb.co/KGwVkv8/con-serv-banner-2.jpg&quot;&gt; &lt;div class=&quot;data-loader&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/div&gt;&lt;div class=&quot;component-split slider&quot;&gt; &lt;div&gt; &lt;h1&gt;Your Go-To for Premium Bathroom and Plumbing Supplies&lt;/h1&gt; &lt;p&gt;Con-Serv, a trusted name in bathroom collections and plumbing supplies, offers high-quality products for both domestic and commercial environments. Specialising in design and manufacture, Con-Serv delivers innovative mobility aids and plumbing solutions that combine performance, durability, and style.&lt;/p&gt; &lt;div class=&quot;supplier-btn-actions button-group&quot;&gt; &lt;a href=&quot;/search/?text=Con+serv&quot; class=&quot;supplierShopRange&quot;&gt;Shop range&lt;/a&gt; &lt;a href=&quot;https://www.con-serv.com.au/&quot; target=&quot;_blank&quot; class=&quot;supplierVisitWebsite&quot;&gt;Visit website&lt;/a&gt; &lt;/div&gt; &lt;/div&gt; &lt;div&gt; &lt;div class=&quot;sliderComponent&quot; data-id=&quot;sliderApp&quot; data-effect=&quot;slide&quot; data-autoplay=&quot;true&quot; data-loop=&quot;true&quot; data-slides=&quot;https://i.ibb.co/p37nm5p/con-serv-slide-1.jpg,https://i.ibb.co/9VC0xS8/con-serv-slide-2.jpg&quot;&gt; &lt;div class=&quot;data-loader&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; ",
     "dataHtmlBlock2": "",
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
     "dataHtmlBlock6": "",
-    "keywords":""
+    "keywords":"con-serv,design,manufacture,bathroom,mobility aids,plumbing,domestic,commercial"
   },
   {
     "id": "decina",
