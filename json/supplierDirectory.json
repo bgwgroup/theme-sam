@@ -87,17 +87,17 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/sam/bromic-cover.jpg",
     "rangeUrl": "/search/?text=Bromic",
     "website": "https://www.bromic.com.au/",
-    "dataSplit": "",
+    "dataSplit": "true",
     "dataTopBanner": "",
     "dataTitle": "",
     "dataDescription": "",
-    "dataHtmlBlock1": "",
+    "dataHtmlBlock1": "&lt;div class=&quot;logo-container&quot;&gt; &lt;div class=&quot;logo&quot;&gt; &lt;img src=&quot;https://i.ibb.co/5RQsvYr/logo.jpg&quot; alt=&quot;Bromic logo&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;sliderComponent&quot; data-id=&quot;sliderHeader&quot; data-effect=&quot;fade&quot; data-autoplay=&quot;true&quot; data-loop=&quot;true&quot; data-slides=&quot;https://i.ibb.co/YQSXHyG/bromic-banner-1.jpg,https://i.ibb.co/Ht4PZSw/bromic-banner-2.jpg,https://i.ibb.co/bBHXKkY/bromic-banner-3.jpg,https://i.ibb.co/mvmdfXx/bromic-banner-4.jpg&quot;&gt; &lt;div class=&quot;data-loader&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/div&gt;&lt;div class=&quot;component-split slider&quot;&gt; &lt;div&gt; &lt;h1&gt;Global Leader in Outdoor Heating Solutions&lt;/h1&gt; &lt;p&gt;Renowned as a global leader, Bromic offers innovative outdoor heating solutions for commercial, residential, and marine applications. With products ranging from gas to electric and freestanding heaters, Bromic combines cutting-edge design with functionality. Experience the warmth and efficiency of Bromic&#39;s heating solutions.&lt;/p&gt; &lt;div class=&quot;supplier-btn-actions button-group&quot;&gt; &lt;a href=&quot;/search/?text=Bromic&quot; class=&quot;supplierShopRange&quot;&gt;Shop range&lt;/a&gt; &lt;a href=&quot;https://www.bromic.com.au/&quot; target=&quot;_blank&quot; class=&quot;supplierVisitWebsite&quot;&gt;Visit website&lt;/a&gt; &lt;/div&gt; &lt;/div&gt; &lt;div&gt; &lt;div class=&quot;sliderComponent&quot; data-id=&quot;sliderApp&quot; data-effect=&quot;slide&quot; data-autoplay=&quot;true&quot; data-loop=&quot;true&quot; data-slides=&quot;https://i.ibb.co/gZtYvwV/bromic-slider-1.jpg,https://i.ibb.co/4VqRvs7/bromic-slider-2.jpg,https://i.ibb.co/cQm9MXH/bromic-slider-3.jpg&quot;&gt; &lt;div class=&quot;data-loader&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;&lt;div class=&quot;video-container&quot;&gt; &lt;iframe width=&quot;1280&quot; height=&quot;720&quot; src=&quot;https://www.youtube.com/embed/fhnXHxjLjMI&quot; title=&quot;Case Study: Wrigley Mansion Phoenix&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen&gt;&lt;/iframe&gt; &lt;/div&gt; ",
     "dataHtmlBlock2": "",
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
     "dataHtmlBlock6": "",
-    "keywords":""
+    "keywords":"bromic,heating,residential,commercial,marine,gas,electric,outdoor heating"
   },
   {
     "id": "caroma",
