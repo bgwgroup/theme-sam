@@ -7,17 +7,17 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/sam/abey-cover.jpg",
     "rangeUrl": "/search/?text=Abey",
     "website": "https://www.abey.com.au/",
-    "dataSplit": "",
+    "dataSplit": "true",
     "dataTopBanner": "",
     "dataTitle": "",
     "dataDescription": "",
-    "dataHtmlBlock1": "",
+    "dataHtmlBlock1": "&lt;div class=&quot;logo-container&quot;&gt; &lt;div class=&quot;logo&quot;&gt; &lt;img src=&quot;https://i.ibb.co/WfS4dw9/logo.png&quot; alt=&quot;Abey logo&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;sliderComponent&quot; data-id=&quot;sliderHeader&quot; data-effect=&quot;fade&quot; data-autoplay=&quot;true&quot; data-loop=&quot;true&quot; data-slides=&quot;https://i.ibb.co/XFwJN0L/abey-banner-1.jpg,https://i.ibb.co/7XWNzk2/abey-banner-2.jpg&quot;&gt; &lt;div class=&quot;data-loader&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/div&gt;&lt;div class=&quot;component-split slider&quot;&gt; &lt;div&gt; &lt;h1&gt;Premium Kitchen and Bathroom Appliances&lt;/h1&gt; &lt;p&gt;Abey Australia, a family-owned business, offers high-quality kitchen and bathroom appliances. Widely admired for their basins, sinks, bathtubs, showers, toilets, and laundry mixers, Abey has been providing exceptional designs for over 67 years. Discover the elegance of Abey products.&lt;/p&gt; &lt;div class=&quot;supplier-btn-actions button-group&quot;&gt; &lt;a href=&quot;/search/?text=Abey&quot; class=&quot;supplierShopRange&quot;&gt;Shop range&lt;/a&gt; &lt;a href=&quot;https://www.abey.com.au/&quot; target=&quot;_blank&quot; class=&quot;supplierVisitWebsite&quot;&gt;Visit website&lt;/a&gt; &lt;/div&gt; &lt;/div&gt; &lt;div&gt; &lt;div class=&quot;sliderComponent&quot; data-id=&quot;sliderApp&quot; data-effect=&quot;slide&quot; data-autoplay=&quot;true&quot; data-loop=&quot;true&quot; data-slides=&quot;https://i.ibb.co/KLnZBgd/abey-slider-1.jpg,https://i.ibb.co/vqWVhyC/abey-slider-2.jpg,https://i.ibb.co/d2hqWvQ/abey-slider-3.jpg,https://i.ibb.co/nLHCh9K/abey-slider-4.jpg,https://i.ibb.co/xj5qj3J/abey-slider-5.jpg&quot;&gt; &lt;div class=&quot;data-loader&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;&lt;div class=&quot;video-container&quot;&gt; &lt;iframe width=&quot;1480&quot; height=&quot;832&quot; src=&quot;https://www.youtube.com/embed/A8umj0eoAno&quot; title=&quot;About Abey Australia&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen&gt;&lt;/iframe&gt; &lt;/div&gt; ",
     "dataHtmlBlock2": "",
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
     "dataHtmlBlock6": "",
-    "keywords":""
+    "keywords":"abey, abey australia, kitchen, bathroom, premium, appliances"
   },
   {
     "id": "avg",
