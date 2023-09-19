@@ -187,17 +187,17 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/sam/david-moss-corporation-cover.jpg",
     "rangeUrl": "/search/?text=David+Moss+Corporation",
     "website": "https://www.davidmoss.com.au/",
-    "dataSplit": "",
+    "dataSplit": "true",
     "dataTopBanner": "",
     "dataTitle": "",
     "dataDescription": "",
-    "dataHtmlBlock1": "",
+    "dataHtmlBlock1": "&lt;div class=&quot;logo-container&quot;&gt; &lt;div class=&quot;logo&quot;&gt; &lt;img src=&quot;https://i.ibb.co/xDRKMxX/logo.png&quot; alt=&quot;David Moss Corporation logo&quot; /&gt; &lt;/div&gt; &lt;/div&gt;&lt;div class=&quot;component-split slider&quot;&gt; &lt;div&gt; &lt;h1&gt;Leading Manufacturer of PE and PVC Pipe Systems&lt;/h1&gt; &lt;p&gt;David Moss Corporation, an Australian-based company, specialises in manufacturing and supplying PE and PVC pipe systems, fittings, and underground ventilation solutions. With a significant presence in the industrial sectors, they offer high-quality, durable products serving both local and international markets.&lt;/p&gt; &lt;div class=&quot;supplier-btn-actions button-group&quot;&gt; &lt;a href=&quot;/search/?text=David+Moss+Corporation&quot; class=&quot;supplierShopRange&quot;&gt;Shop range&lt;/a&gt; &lt;a href=&quot;https://www.davidmoss.com.au/&quot; target=&quot;_blank&quot; class=&quot;supplierVisitWebsite&quot;&gt;Visit website&lt;/a&gt; &lt;/div&gt; &lt;/div&gt; &lt;div&gt; &lt;div class=&quot;sliderComponent&quot; data-id=&quot;sliderApp&quot; data-effect=&quot;slide&quot; data-autoplay=&quot;true&quot; data-loop=&quot;true&quot; data-slides=&quot;https://i.ibb.co/ZN0rFsq/damos-slide-1.jpg,https://i.ibb.co/6mxsnqS/damos-slide-2.jpg,https://i.ibb.co/MMjgBCM/damos-slide-3.jpg,https://i.ibb.co/F5bHqN8/damos-slide-4.jpg,https://i.ibb.co/ZxhPgyZ/damos-slide-5.jpg&quot;&gt; &lt;div class=&quot;data-loader&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; ",
     "dataHtmlBlock2": "",
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
     "dataHtmlBlock6": "",
-    "keywords":""
+    "keywords":"david moss corporation,damos,manufacturing,pe,pvc,pvc pipe,fittings,underground ventilation,industrial"
   },
   {
     "id": "dorf",
