@@ -67,17 +67,17 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/sam/brasshards-cover.jpg",
     "rangeUrl": "/search/?text=Brasshards",
     "website": "https://brasshards.com.au/",
-    "dataSplit": "",
+    "dataSplit": "true",
     "dataTopBanner": "",
     "dataTitle": "",
     "dataDescription": "",
-    "dataHtmlBlock1": "",
+    "dataHtmlBlock1": "&lt;div class=&quot;logo-container&quot;&gt; &lt;div class=&quot;logo&quot;&gt; &lt;img src=&quot;https://i.ibb.co/mHtHQTQ/logo.png&quot; alt=&quot;Brasshards logo&quot; /&gt; &lt;/div&gt; &lt;/div&gt;&lt;div class=&quot;component-split slider&quot;&gt; &lt;div&gt; &lt;h1&gt;Premium Quality Plumbing Supplies Specialist&lt;/h1&gt; &lt;p&gt;With over 45 years of experience, Brasshards, an Australian company, has been supplying high-quality plumbing products and bathroom accessories for homes in Australia and New Zealand. Known for back-of-wall fittings, fixtures, tubes, and front-of-wall mixers, showers, Brasshards ensures quality and reliability.&lt;/p&gt; &lt;div class=&quot;supplier-btn-actions button-group&quot;&gt; &lt;a href=&quot;/search/?text=Brasshards&quot; class=&quot;supplierShopRange&quot;&gt;Shop range&lt;/a&gt; &lt;a href=&quot;https://brasshards.com.au/&quot; target=&quot;_blank&quot; class=&quot;supplierVisitWebsite&quot;&gt;Visit website&lt;/a&gt; &lt;/div&gt; &lt;/div&gt; &lt;div&gt; &lt;div class=&quot;sliderComponent&quot; data-id=&quot;sliderApp&quot; data-effect=&quot;slide&quot; data-autoplay=&quot;true&quot; data-loop=&quot;true&quot; data-slides=&quot;https://i.ibb.co/zmvHpZ2/brasshards-slider-1.jpg,https://i.ibb.co/9pc9fGp/brasshards-slider-2.jpg,https://i.ibb.co/b5LzZvw/brasshards-slider-3.jpg&quot;&gt; &lt;div class=&quot;data-loader&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;&lt;div class=&quot;about&quot;&gt; &lt;img src=&quot;https://i.ibb.co/hmV6Xxz/about-pic.jpg&quot; alt=&quot;About Brasshards&quot; /&gt; &lt;/div&gt; ",
     "dataHtmlBlock2": "",
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
     "dataHtmlBlock6": "",
-    "keywords":""
+    "keywords":"brasshards, plumbing, bathroom, accessories"
   },
   {
     "id": "bromic",
