@@ -167,17 +167,17 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/sam/decina-cover.jpg",
     "rangeUrl": "/search/?text=Decina",
     "website": "https://decina.com.au/",
-    "dataSplit": "",
+    "dataSplit": "true",
     "dataTopBanner": "",
     "dataTitle": "",
     "dataDescription": "",
-    "dataHtmlBlock1": "",
+    "dataHtmlBlock1": "&lt;div class=&quot;logo-container&quot;&gt; &lt;div class=&quot;logo&quot;&gt; &lt;img src=&quot;https://i.ibb.co/dQsKWWm/logo.png&quot; alt=&quot;Decina logo&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;sliderComponent&quot; data-id=&quot;sliderHeader&quot; data-effect=&quot;fade&quot; data-autoplay=&quot;true&quot; data-loop=&quot;true&quot; data-slides=&quot;https://i.ibb.co/Jx66k4V/decina-banner-1.jpg,https://i.ibb.co/7NfyWN0/decina-banner-2.jpg,https://i.ibb.co/ctjjPP5/decina-banner-3.jpg&quot;&gt; &lt;div class=&quot;data-loader&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/div&gt;&lt;div class=&quot;component-split slider&quot;&gt; &lt;div&gt; &lt;h1&gt;Australia&#39;s Premier Manufacturer of Bathroom Ware&lt;/h1&gt; &lt;p&gt;Decina, a 100% Australian-owned company, is renowned for its top-quality baths, spa baths, showers, toilets, basins, tapware, and accessories. As a leading manufacturer and supplier since 1989, Decina delivers stylish and functional bathroom solutions that enhance any space.&lt;/p&gt; &lt;div class=&quot;supplier-btn-actions button-group&quot;&gt; &lt;a href=&quot;/search/?text=Decina&quot; class=&quot;supplierShopRange&quot;&gt;Shop range&lt;/a&gt; &lt;a href=&quot;https://decina.com.au/&quot; target=&quot;_blank&quot; class=&quot;supplierVisitWebsite&quot;&gt;Visit website&lt;/a&gt; &lt;/div&gt; &lt;/div&gt; &lt;div&gt; &lt;div class=&quot;sliderComponent&quot; data-id=&quot;sliderApp&quot; data-effect=&quot;slide&quot; data-autoplay=&quot;true&quot; data-loop=&quot;true&quot; data-slides=&quot;https://i.ibb.co/gdSD4nC/decina-slide-1.jpg,https://i.ibb.co/qyMrzZd/decina-slide-2.jpg,https://i.ibb.co/3ymYfdw/decina-slide-3.jpg,https://i.ibb.co/LhddGhp/decina-slide-4.jpg,https://i.ibb.co/SfGk7xP/decina-slide-5.jpg&quot;&gt; &lt;div class=&quot;data-loader&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;&lt;div class=&quot;video-container&quot;&gt; &lt;iframe width=&quot;1280&quot; height=&quot;720&quot; src=&quot;https://www.youtube.com/embed/T1dHwNiNBk0&quot; title=&quot;All-In-One Shower Towers by Decina&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen&gt;&lt;/iframe&gt; &lt;/div&gt; ",
     "dataHtmlBlock2": "",
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
     "dataHtmlBlock6": "",
-    "keywords":""
+    "keywords":"decina,baths,spa baths,showers,toilets,basins,tap ware, accessories"
   },
   {
     "id": "david-moss-corporation",
