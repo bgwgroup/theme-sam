@@ -227,17 +227,17 @@
     "coverImg": "/_ui/responsive/common/images/suppliers/sam/dux-cover.jpg",
     "rangeUrl": "/search/?text=Dux",
     "website": "https://www.dux.com.au/",
-    "dataSplit": "",
+    "dataSplit": "true",
     "dataTopBanner": "",
     "dataTitle": "",
     "dataDescription": "",
-    "dataHtmlBlock1": "",
+    "dataHtmlBlock1": "&lt;div class=&quot;logo-container&quot;&gt; &lt;div class=&quot;logo&quot;&gt; &lt;img src=&quot;https://i.ibb.co/gRVDJWx/logo.png&quot; alt=&quot;Dux logo&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;sliderComponent&quot; data-id=&quot;sliderHeader&quot; data-effect=&quot;fade&quot; data-autoplay=&quot;true&quot; data-loop=&quot;true&quot; data-slides=&quot;https://i.ibb.co/dmyfJHF/dux-banner-1.jpg,https://i.ibb.co/Cmb47NV/dux-banner-2.jpg&quot;&gt; &lt;div class=&quot;data-loader&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/div&gt;&lt;div class=&quot;component-split slider&quot;&gt; &lt;div&gt; &lt;h1&gt;Pioneering Hot Water and Heating Solutions&lt;/h1&gt; &lt;p&gt;Dux, a trusted Australian brand, delivers innovative hot water systems and heating solutions for homes and businesses. With over 100 years of experience, Dux offers energy-efficient products including gas, electric, solar hot water systems, and heat pump systems. Enjoy reliable comfort with Dux&#39;s exceptional product range.&lt;/p&gt; &lt;div class=&quot;supplier-btn-actions button-group&quot;&gt; &lt;a href=&quot;/search/?text=Dux&quot; class=&quot;supplierShopRange&quot;&gt;Shop range&lt;/a&gt; &lt;a href=&quot;https://www.dux.com.au/&quot; target=&quot;_blank&quot; class=&quot;supplierVisitWebsite&quot;&gt;Visit website&lt;/a&gt; &lt;/div&gt; &lt;/div&gt; &lt;div&gt; &lt;div class=&quot;sliderComponent&quot; data-id=&quot;sliderApp&quot; data-effect=&quot;slide&quot; data-autoplay=&quot;true&quot; data-loop=&quot;true&quot; data-slides=&quot;https://i.ibb.co/YWTL4ty/dux-slide-1.jpg,https://i.ibb.co/1Rtw4rx/dux-slide-2.jpg&quot;&gt; &lt;div class=&quot;data-loader&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;&lt;div class=&quot;video-container&quot;&gt; &lt;iframe width=&quot;556&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/pRpHqbXT6u8&quot; title=&quot;Dux Proflo large electric water heater range&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen&gt;&lt;/iframe&gt; &lt;/div&gt; ",
     "dataHtmlBlock2": "",
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
     "dataHtmlBlock6": "",
-    "keywords":""
+    "keywords":"dux,hot water systems,"
   },
   {
     "id": "enware",
