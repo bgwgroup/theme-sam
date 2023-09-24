@@ -306,18 +306,18 @@
     "logoImg": "/_ui/responsive/common/images/suppliers/sam/forza-global.png",
     "coverImg": "/_ui/responsive/common/images/suppliers/sam/forza-global-cover.jpg",
     "rangeUrl": "/search/?text=Forza+Global",
-    "website": "https://www.forzaglobal.com.au/",
+    "website": "/search/?text=Forza+Global",
     "dataSplit": "true",
     "dataTopBanner": "",
     "dataTitle": "",
     "dataDescription": "",
-    "dataHtmlBlock1": "",
+    "dataHtmlBlock1": "&lt;div class=&quot;logo-container&quot;&gt; &lt;div class=&quot;logo&quot;&gt; &lt;img src=&quot;https://i.ibb.co/7Gwc35B/logo.jpg&quot; alt=&quot;Forza Global logo&quot; /&gt; &lt;/div&gt; &lt;div class=&quot;sliderComponent&quot; data-id=&quot;sliderHeader&quot; data-effect=&quot;fade&quot; data-autoplay=&quot;true&quot; data-loop=&quot;true&quot; data-slides=&quot;https://i.ibb.co/B60qDtx/forza-banner-1.jpg,https://i.ibb.co/D4Bgqhv/forza-banner-2.jpg&quot;&gt; &lt;div class=&quot;data-loader&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/div&gt;&lt;div class=&quot;component-split slider&quot;&gt; &lt;div&gt; &lt;h1&gt;Industry Leader in Plumbing Systems and Solutions&lt;/h1&gt; &lt;p&gt;Forza Global, an Australian manufacturer, specializes in PEX piping, stainless tube, and copper fittings systems. Known for designing, developing, and exporting non-production systems, Forza&#39;s top-tier solutions cater to customers worldwide.&lt;/p&gt; &lt;div class=&quot;supplier-btn-actions button-group&quot;&gt; &lt;a href=&quot;/search/?text=Forza+Global&quot; class=&quot;supplierShopRange&quot;&gt;Shop range&lt;/a&gt; &lt;a href=&quot;/search/?text=Forza+Global&quot; target=&quot;_blank&quot; class=&quot;supplierVisitWebsite&quot;&gt;Visit website&lt;/a&gt; &lt;/div&gt; &lt;/div&gt; &lt;div&gt; &lt;div class=&quot;sliderComponent&quot; data-id=&quot;sliderApp&quot; data-effect=&quot;slide&quot; data-autoplay=&quot;true&quot; data-loop=&quot;true&quot; data-slides=&quot;https://i.ibb.co/py42bjL/forza-slide-1.jpg,https://i.ibb.co/PGNJGNn/forza-slide-2.jpg,https://i.ibb.co/d4mYPy6/forza-slide-3.jpg,https://i.ibb.co/vwjbwSk/forza-slide-4.jpg,https://i.ibb.co/WGhLCFs/forza-slide-5.jpg,https://i.ibb.co/hWfhc3s/forza-slide-6.jpg,https://i.ibb.co/zST60gx/forza-slide-7.jpg&quot;&gt; &lt;div class=&quot;data-loader&quot;&gt;&lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;&lt;div class=&quot;video-container&quot;&gt; &lt;iframe width=&quot;1200&quot; height=&quot;675&quot; src=&quot;https://www.youtube.com/embed/F0XFSGzB9JY&quot; title=&quot;Forza Global Company Introduction Video&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen&gt;&lt;/iframe&gt; &lt;/div&gt; ",
     "dataHtmlBlock2": "",
     "dataHtmlBlock3": "",
     "dataHtmlBlock4": "",
     "dataHtmlBlock5": "",
     "dataHtmlBlock6": "",
-    "keywords":""
+    "keywords":"forza, forza global, gas, water systems"
   },
   {
     "id": "harbic",
